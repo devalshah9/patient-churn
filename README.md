@@ -1,2 +1,8 @@
 # patient-churn
-End-to-end dbt analytics project modeling patient churn data into clean staging models, business logic layers, and executive-ready analytics marts to support retention and operational insights.
+Notebook-based analysis of a patient churn dataset, focused on exploratory insights and churn drivers.
+
+## Dataset
+- `analysis/patient_churn_dataset.csv`
+
+## Analysis
+- `analysis/patient_churn_exploration.ipynb`
